@@ -18,7 +18,6 @@
 #### 🗣️ **Speech Emotion Classification with CNNs**
 Built a deep learning model in **PyTorch** to classify emotions from speech using **mel-spectrograms** and the RAVDESS dataset.  
 *Tools:* Python, PyTorch, Torchvision, Scikit-learn, Librosa, Matplotlib  
-➡️ [View Project Repository](https://github.com/elijkon)  
 
 #### 🌪️ **Tornado Tracking and Analysis System**
 Developed a full-stack system for analyzing tornado data using **SQLite3**, **Python**, **HTML**, and **CGI**.  
