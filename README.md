@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Elijah Konkle
+# Hi, I'm Elijah Konkle
 
 🎓 **Data Science student at Belmont University** with a minor in Computer Science and a 3.87 GPA.  
 💡 Passionate about transforming raw data into actionable insights through data analysis, visualization, and machine learning.  
@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 - 📊 Experienced in **data analytics, statistical modeling, and data visualization**  
 - 🧩 Skilled in programming languages such as **Python, R, SQL, and JavaScript**  
 - 🧮 Comfortable working across the full data lifecycle: from cleaning and transforming data to building models and communicating results  
@@ -14,7 +14,7 @@
 
 ---
 
-### 🧩 Featured Projects
+### Featured Projects
 #### 🗣️ **Speech Emotion Classification with CNNs**
 Built a deep learning model in **PyTorch** to classify emotions from speech using **mel-spectrograms** and the RAVDESS dataset.  
 *Tools:* Python, PyTorch, Torchvision, Scikit-learn, Librosa, Matplotlib  
@@ -30,14 +30,14 @@ Focused on responsive design and modular JSON architecture for clean data handli
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 **Languages:** Python, R, SQL, Java, JavaScript, HTML, CSS  
 **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch, Torchvision  
 **Tools:** Power BI, Jupyter, RStudio, SQLite, Apache, Git, IntelliJ  
 
 ---
 
-### 📈 Currently Learning
+### Currently Learning
 - Advanced **data visualization** and dashboard storytelling  
 - **Machine learning** deployment and interpretability  
 - **Automation** with SQL and Python scripting  
