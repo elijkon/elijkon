@@ -15,7 +15,7 @@
 ---
 
 ### Featured Projects
-#### 🗣️ [**Speech Emotion Classification with CNNs**]((https://github.com/elijkon/Speech-Emotion-Classification-with-CNNs))
+#### 🗣️ [**Speech Emotion Classification with CNNs**](https://github.com/elijkon/Speech-Emotion-Classification-with-CNNs)
 Built a deep learning model in **PyTorch** to classify emotions from speech using **mel-spectrograms** and the RAVDESS dataset.  
 *Tools:* Python, PyTorch, Torchvision, Scikit-learn, Librosa, Matplotlib  
 
