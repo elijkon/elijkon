@@ -15,16 +15,16 @@
 ---
 
 ### Featured Projects
-#### 🗣️ **Speech Emotion Classification with CNNs**
+#### 🗣️ [**Speech Emotion Classification with CNNs**]((https://github.com/elijkon/Speech-Emotion-Classification-with-CNNs))
 Built a deep learning model in **PyTorch** to classify emotions from speech using **mel-spectrograms** and the RAVDESS dataset.  
 *Tools:* Python, PyTorch, Torchvision, Scikit-learn, Librosa, Matplotlib  
 
-#### 🌪️ **Tornado Tracking and Analysis System**
+#### 🌪️ [**Tornado Tracking and Analysis System**](https://github.com/elijkon/Tornado-Tracking-and-Analysis-System)
 Developed a full-stack system for analyzing tornado data using **SQLite3**, **Python**, **HTML**, and **CGI**.  
 Implemented search and filter features by EF rating, state, and casualty statistics.  
 *Tools:* Python, SQL, HTML, Apache  
 
-#### 🚗 **Car Archive Web Application**
+#### 🚗 [**Car Archive Web Application**](https://github.com/elijkon/elijkon.github.io)
 Created an interactive web app that showcases a photo archive of exotic cars using **HTML**, **CSS**, **JavaScript**, and **JSON**.  
 Focused on responsive design and modular JSON architecture for clean data handling.
 
