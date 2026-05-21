@@ -23,7 +23,7 @@ Implemented search and filter features by EF rating, state, and casualty statist
 *Tools:* Python, SQL, HTML, Apache
 
 #### [**Beyond Discover Weekly: Content-Based Spotify Discovery Engine**](https://github.com/elijkon/spotify_rec_sys_spark)
-Engineered an automated ETL pipeline using **Pandas** to process 114,000+ track records from Kaggle and Spotify REST APIs.  
+Engineered an automated ETL pipeline using **Pandas** to process 114,000+ track records from Kaggle and REST APIs.  
 Designed and trained a **Deep Autoencoder** neural network in **PyTorch** to extract non-linear latent audio features and calculate Cosine Similarity for targeted recommendations, validating cluster topology by utilizing K-Means strictly as a mathematical evaluation proxy.  
 *Tools:* Python, PyTorch, Pandas, Scikit-learn, UMAP, Matplotlib, Seaborn, REST APIs
 
