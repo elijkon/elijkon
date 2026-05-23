@@ -18,9 +18,8 @@ Engineered a containerized ETL pipeline and deep learning model to classify huma
 *Tools:* Python, Docker, AWS S3, Prefect, PyTorch, Librosa, SQLite, Weights & Biases
 
 #### [**Tornado Tracking and Analysis System**](https://github.com/elijkon/Tornado-Tracking-and-Analysis-System)
-Developed a full-stack system for analyzing tornado data using **SQLite3**, **Python**, **HTML**, and **CGI**.  
-Implemented search and filter features by EF rating, state, and casualty statistics.  
-*Tools:* Python, SQL, HTML, Apache
+Engineered a transactional, full-stack data system using a Python CGI backend and a robust SQLite database. Designed a normalized database schema in 3rd Normal Form (3NF) to track storm ratings, geography, weather event types, and casualties. Built web-based CRUD control panels and developed a multi-dimensional SQL query dashboard to extract critical insights on storm severity trends, regional distribution, and economic/casualty impact metrics.  
+*Tools:* Python, SQLite3, SQL, HTML5, Apache CGI
 
 #### [**Beyond Discover Weekly: Content-Based Spotify Discovery Engine**](https://github.com/elijkon/spotify_rec_sys_spark)
 Engineered an automated ETL pipeline using **Pandas** to process 114,000+ track records from Kaggle and REST APIs.  
